@@ -5,12 +5,12 @@ FIS-Monitor mit Werbeintegration
 
 Dateien
 -------
-main.py                 Hauptprogramm mit FIS- und Werbeausgabe
-werbung.py              Werbe-Manager (LNR-Regeln, Bilder, Videos)
-ads/werbung.ini         Werbekonfiguration
-cfg_parser.py           CFG-Parser
-monitor_state.py        IBIS-Zustand
-ibis_receiver.py        IBIS-Empfang
+main.py - Hauptprogramm mit FIS- und Werbeausgabe
+werbung.py - Werbe-Manager (LNR-Regeln, Bilder, Videos)
+ads/werbung.ini - Werbekonfiguration
+cfg_parser.py - CFG-Parser
+monitor_state.py - IBIS-Zustand
+ibis_receiver.py - IBIS-Empfang
 
 Installation
 ------------
